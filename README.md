@@ -54,7 +54,7 @@ npm run build
 <img width="200" height="200" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/4ade23a5-b3e8-4e8b-9952-8d0cf5fe0d13" />
 <img width="200" height="200" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/21a9a2c1-a885-4074-8fd8-13910ec5fcf6" />
 <img width="200" height="200" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/7fae8139-f0cb-4320-acfc-75a78818a378" />
-<img width="200" height="1080" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/54d24e15-6020-4602-bd10-6a51ef14768e" />
+<img width="200" height="200" alt="Screenshot (68)" src="https://github.com/user-attachments/assets/54d24e15-6020-4602-bd10-6a51ef14768e" />
 <img width="200" height="200" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/2ce3b034-7ea7-459b-bc31-bcc57aa5ece1" />
 
 📬 Contact
